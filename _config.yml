@@ -1,8 +1,8 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Julian Gil 
+bio: Interest in IT
 
-# twitter summary info
+# twitter summary info 
 description: A blog about technology and stuff related
 
 picture: assets/images/picture.jpg
@@ -11,10 +11,10 @@ url: http://juliangil97.github.io/website
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: https://www.facebook.com/julian.gil.52012
 twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+github: https://github.com/juliangil97
+email: jgilb039@fiu.edu
 
 gems:
   - jekyll-seo-tag
